@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Collaboration</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css" >
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Scientific Collaboration
+# through the lens of
+# Social Network Analysis
+
+### Ottawa Graph meetup
+### Caroline Mimeault & Mike Williamson
+### July 2017
+
+???
+This month Caroline Mimeault will be sharing her dive into applying Social Network Analysis to data extracted from the 2015 Canadian aquaculture research and development review. She'll be looking at the connection between innovation and collaboration, and exploring what graphs can tell us about scientific collaboration. 
+
+Hope to see you all there!
+
+---
+class: middle
+
+## Structure of presentation
+
+* Part I: Scientific collaboration in Canadian aquaculture research and development
+* Part II: Group reflection/discussion on interpretation/applications 
+
+---
+class: center, middle
+
+## Part I:
+# Scientific collaboration in Canadian aquaculture R&D
+
+---
+class: center, middle
+
+## Where I live...
+.fifty[![types](images/where_i_live.png)]
+
+---
+class: center, middle
+
+## What is aquaculture?
+
+.sixty[![types](images/aquaculture.jpg)]
+
+???
+Aquaculture is the farming of aquatic organisms such as fish, shellfish and aquatic plants – it’s essentially agriculture, but in the water.
+Source: http://www.aquaculture.ca/
+Canadian Aquaculture Industry Alliance
+
+Research & Development (R&D) in several fields:
+Finfish: Freshwater
+Finfish: Salmon
+Parasite
+Fish Health
+Environmental Interactions
+CIMTAN
+Shellfish: Mussels, oysters and others
+
+Breeding, rearing, husbandry, production, harvesting, interactions, etc. 
+
+---
+class: middle
+
+## Social Network Analysis (SNA)
+
+* Process of investigating social structures through the use of networks
+* A network is a collection of points (nodes) joined together in pairs by lines (edges)
+* Conceptualizing data as a network allows to apply multiple social network analytical tools
+
+---
+class: middle
+
+## Collaboration and innovation
+
+* New investments to increase scientific collaboration to foster and leverage important partnerships
+* Could SNA describe existing scientific collaboration and inform interventions in the scientific community?
+* Is position in network linked to performance?
+
+---
+class: center, middle
+
+## Dataset
+
+.seventy[![image](images/review.png)]
+
+---
+
+class: middle
+
+# Aquaculture R&D Review
+
+* Every two years since 2007, the Aquaculture Association of Canada
+publishes, in partnership with Fisheries and Oceans Canada, a
+compendium of the on-going aquaculture research and
+development projects in Canada
+* Projects include governmental, academic, industry and nongovernmental
+organizations
+* The Aquaculture R&D Reviews provide an overview of the Canadian
+aquaculture research community over the last decade
+* Extracting project details from those documents creates a dataset
+amenable to a variety of analytical techniques including descriptive
+statistics and social network analysis
+
+---
+class: middle
+
+# Methodology
+
+* Collaboration was defined as two or more organizations working on a given project, i.e. listed as project lead, project team or collaborators
+* For each project included in the 2015 Aquaculture R&D Review,
+specific variables (category, title, funded by, co-funded by, project
+lead, project team, collaborators) were extracted into a structured,
+consistent and parsable data format (yaml)
+* A series of Python scripts were created to generate csv files from
+the yaml files for all collaborative projects
+* csv files were imported in Gephi, a Social Network Analysis
+software, for visualisations and analyses
+
+---
+class: center, middle
+
+# Example of a yaml file
+
+.seventy[![image](images/example_yaml.png)]
+
+---
+class: center, middle
+
+# Example of a python script
+
+.fifty[![image](images/example_python.png)]
+
+---
+class: center, middle
+
+# Example of a csv file
+
+.eighty[![image](images/example_csv.png)]
+
+---
+class: middle
+
+# Results
+
+* In 2015, a total of 215 projects were included in the Canadian Aquaculture R&D Review of which 168 (78%) were collaborative, i.e. involved two or more organisations
+* In 2015, Fisheries and Oceans Canada was involved in 138 (64%) of the 215 projects of which 108 (78%) were collaborative
+
+---
+class: center, middle
+# 2015 Aquaculture R&D Review
+
+.sixty[![image](images/categories.png)]
+
+---
+class: center, middle
+
+# 2015 Canadian Aquaculture R&D Community
+
+.sixty[![image](images/graph_all.png)]
+
+???
+168 projects; 
+203 nodes; 
+616 edges;
+Density: 0.03; 
+Degree range: 1 to 129; 
+Average degree: 6; 
+Edge weight: 1 to 12
+
+---
+class: center, middle
+
+# 2015 R&D Community: freshwater fish
+
+.fifty[![image](images/graph_finfish_freshwater.png)]
+
+???
+20 projects;
+36 nodes;
+78 edges;
+Density: 0.12;
+Degree range: 1 to 19;
+Average degree: 4;
+Edge weight: 1 to 3
+
+---
+class: center, middle
+
+# 2015 R&D Community: fish health
+
+.sixty[![image](images/graph_fish_health.png)]
+
+???
+35 projects;
+35 nodes;
+59 edges;
+Density: 0.10;
+Degree range: 1 to 29;
+Average degree: 3;
+Edge weight: 1 to 5
+
+---
+class: center, middle
+
+# 2015 R&D Community: CIMTAN
+
+.fifty[![image](images/graph_cimtan.png)]
+
+???
+18 projects;
+18 nodes;
+68 edges;
+Density: 0.44;
+Degree range: 1 to 16;
+Average degree: 7;
+Edge weight: 1 to 10
+
+---
+class: middle
+
+# Conclusions
+
+* In 2015, 78% of aquaculture R&D projects in Canada were collaborative 
+* The structure and density of the networks varies significantly among different research areas 
+* In 2015, DFO was an central node in the Canadian aquaculture R&D network being involved in 64% of collaborative aquaculture R&D projects
+* DFO’s position varies among networks of different research areas
+
+---
+class: middle
+
+# Discussion
+
+* Increasing collaboration = more edges
+* How many edges is enough? 
+* What is the targeted rate of scientific collaboration in aquaculture?
+* Where should new edges be added? 
+** With DFO? Should DFO collaborate on more projects? This would increase DFO’s centrality measure
+** Between partners? Should there be more collaboration between organisations other than DFO? This would decrease DFO’s centrality measure
+
+---
+class: middle
+
+# Potential future analyses
+
+* Determine how aquaculture R&D networks change over time
+* Determine if increased collaboration correlates with increased valuable outcomes such as publications, science advice, patents, etc.
+* Determine the optimal structure of scientific collaboration (cost vs. outcomes)
+* Analyse structures of funding networks
+
+---
+class: center, middle
+
+## Part II:
+# Group discussion/perspective on interpretation/applications
+
+---
+class: center, middle
+
+.eighty[![image](images/contandriopoulos_et_al_2016.png)]
+
+---
+class: center, middle
+
+# Is more always better?
+
+.sixty[![image](images/more_always_better.png)]
+
+---
+class: center, middle
+
+# Questions?
+
+### Caroline Mimeault
+Github: @caromimo, Twitter: @megapteraphile
+
+### Mike Williamson
+Github: @sleepycat, Twitter: @dexterchief
+
+    </textarea>
+    <script src="out/remark.min.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+      var slideshow = remark.create({ratio: "16:9"});
+    </script>
+  </body>
+</html>

@@ -7,6 +7,18 @@ body {
   background-color: rgb(64, 74, 83);
 }
 
+.title_slide {
+  background-image: url(../images/graph_all_light.png);
+  background-size: 64em;
+  background-position-x: -18em;
+  background-position-y: -14em;
+}
+
+.title_slide > h1,.title_slide > h3 {
+  margin-top: 4em;
+  text-align: right;
+}
+
 .output code {
   font-size: 0.9em;
 }
@@ -23,10 +35,19 @@ body {
   text-align: left;
 }
 
+.align_right {
+  text-align: right;
+}
+
+.collaboration_image img {
+  float: right;
+  margin-top: -6em;
+  margin-left: 2em;
+}
+
 .fit_width img {
   width: 100%;
 }
-
 
 .reference {
   font-size: 0.7em;

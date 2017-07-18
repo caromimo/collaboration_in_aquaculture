@@ -83,8 +83,9 @@ class: middle
 
 ## Social Network Analysis (SNA):
 
-* Process of investigating social structures through the use of networks * A network is a collection of points (nodes) joined together in pairs by lines (edges)
-* Conceptualizing data as a network allows to apply multiple social network analytical tools
+* Process of investigating social structures through the use of networks 
+* A network is a collection of points (nodes) joined together in pairs by lines (edges)
+* Conceptualizing data as a network allows to apply multiple social network analytical tools and metrix 
 
 ???
 Once a month, I come here and learn, or try to learn, pretty cool things about Social Network Analysis...
@@ -161,7 +162,7 @@ class: center, middle
 .sixty[![image](images/graph_all.png)]
 
 ???
-- Nodes represent organizations: the size of the nodes represent the centrality, i.e., the bigger the
+- Nodes represent organizations: the size of the nodes represent the degree centrality, i.e., the bigger the
 node, the more connections to other nodes
 
 - Edges represent collaborative project: the weight, or thickness, of the edge, represent the number of
@@ -270,21 +271,17 @@ class: center, middle
 ---
 class: middle
 
-## Conclusions/Discussion
+## Conclusions
 
-* In 2015, **78%** of aquaculture R&D projects in Canada were **collaborative**
-* The structures of subnetworks varied (1, 2 or 4 main nodes in the network)
-* The density of subnetworks varied (0.10 to 0.44)
+* In 2015, 78% of aquaculture R&D projects in Canada were collaborative
+* The overall network of Canadian aquaculture R&D is sparse and dominated by a main player
+* The subnetworks are varies in: 
+  - density (0.10 to 0.44)
+  - structure (1, 2 or 4 main nodes in the network)
+
+???
 * In 2015, DFO was an central node in the Canadian aquaculture R&D network being involved in 64% of collaborative aquaculture R&D projects
 * DFO’s position varies among networks of different research areas
-
-* Is position in network linked to performance?
-* Increasing collaboration = more edges
-* How many edges is enough?
-* What is the targeted rate of scientific collaboration in aquaculture?
-* Where should new edges be added?
-** With DFO? Should DFO collaborate on more projects? This would increase DFO’s centrality measure
-** Between partners? Should there be more collaboration between organisations other than DFO? This would decrease DFO’s centrality measure
 
 ---
 class: center, middle
@@ -294,16 +291,62 @@ class: center, middle
 
 ???
 As excited I, we, were to do this project, it did not take long to realise that several other people have explored this approach.
-
+SNA have been applied to both the individual and the organisational levels. 
 ---
 class: center, middle
 
-### Can we provide guidance to foster and leverage collaboration and patnership?
+### Can SNA provide guidance to foster scientific collaboration?
+
+???
+Is a specific metrix linked to increased performance?
+  - Position of a node in the network (centrality or betweenness)?
+  - Density of the (sub)networks?
+
+Difficult to quantify the outcomes of the projects included in the 2015 R&D review because:
+1. some of the projects are still on-going
+2. not all projects will lead to comparable outcomes
 
 ---
-class: center, middle
+class: middle
 
-.eighty[![image](images/contandriopoulos_et_al_2016.png)]
+## Literature review
+
+Study  | Conclusion(s) | To increase output(s)...
+------ | ------------- | -----------------------
+Schilling and Phelps 2007 | Combination of clustering and reach (density) was associated with higher firm patenting. Betweenness centrality was not | Increase density
+Gilsing et al. 2007 | The value of betweenness depends on the similarity to others and on the degree of network density | Context specific
+AlKuaik et al. 2016 | Significant positive relationship between organization’s network density and centrality with product and process innovation | Increase density and centrality
+
+???
+The above studies were conducted at the organisation-level.
+
+Studies at the individual-level include:
+
+Study  | Finding(s) 
+------ | ---------- 
+Contandriopoulos et al. 2016 | Bridging position (betweenness) in a network improves scientific performance (productivity and influence) 
+Parise et al. 2015 | High "compactness ratio" (density) network negatively correlated with ideation
+
+---
+class: middle
+
+# No Free Lunch
+
+## Density
+
+.quote[number of edges divided by the number possible]
+
+* high levels increases information transmission capacity
+* low levels does not support absorption
+* multiple pathways enhance fidelity of information received
+* high density information and knowledge shared becomes homogeneous and redundant
+
+## Betweenness
+
+.quote[The fraction of shortest paths that pass through the focal vertex.]
+
+* higher volume of more diverse information arriving at faster rates
+* centrality spurs the possibilities for novelty creation but at high(er) levels it may impede the possibilities for absorption of this novelty
 
 ---
 class: center, middle
@@ -311,19 +354,6 @@ class: center, middle
 ## Is more always better?
 
 .sixty[![image](images/more_always_better.png)]
-
----
-class: center, middle
-
-## Literature review
-
-Study  | Level | Finding(s) | To increase output(s)...
-------------- | ------------- | -------------- | ------------
-Contandriopoulos et al. 2016 | Individual | Bridging position (betweenness) in a network improves scientific performance (productivity and influence) 
-Parise et al. 2015 | Individual | High "compactness ratio" (density) network negatively correlated with ideation
-Schilling and Phelps 2007 | Organizations | Combination of clustering and reach (density) was associated with higher firm patenting. Betweenness centrality was not | Increase density
-Gilsing et al. 2007 | Organizations | The value of betweenness depends on the similarity to others and on the degree of network density | Depends
-AlKuaik et al. 2016 | Organizations | Significant positive relationship between organization’s network density and centrality with product and process innovation | Increase density and centrality
 
 ---
 class: center, middle

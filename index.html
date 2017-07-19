@@ -35,7 +35,6 @@ Work in progress, do not pretend to have the answers
 class: center, middle
 
 # Part I: Context
-# Scientific collaboration in Canadian aquaculture R&D
 
 ---
 class: center, middle
@@ -154,6 +153,8 @@ class: middle
   * csv files were imported in Gephi, a Social Network Analysis
 software, for visualisations and analyses
 
+We translated
+
 ---
 class: center, middle
 
@@ -176,11 +177,59 @@ collaborative projects between organisations
   - contains subnetworks (sub-communities);
   - edges of various weights (some higher bandwidth connections)
 
-- SNA metrix:
+- SNA metrics:
   - density: 0.03;
   - degree range: 1 to 129;
   - average degree: 6;
   - edge weight: 1 to 12
+  - betweenness centrality range: 0 to above 14,000
+
+---
+class: middle
+
+## Network metric of interest for innovation:
+
+### Betweenness centrality (the usual suspect)
+
+.quote[the fraction of shortest paths that pass through the focal vertex]
+
+* higher volume of more diverse information arriving at faster rates
+* centrality spurs the possibilities for novelty creation but at high(er) levels it may impede the possibilities for absorption of this novelty
+
+???
+Loosely described, the betweenness centrality of a node is the number of times that any actor needs a given actor
+to reach any other actor (Borgatti and Everett al. 2005).
+Brokerage provides benefits for the individual based on the idea that non-redundant actors are sources of unique information that can be used by the broker for personal advantage by increasing their social capital [5]. Social capital is defined as the advantage created by a person’s location in a structure of relationships [6, 12] and contrasts with the idea of human capital [5, 13] which explains a person’s advantage in terms of personal attributes. Brokers can facilitate access to novel information, or resources, facilitate transfer of knowledge, and co-ordinate effort across the network. Boundary spanning as a form of brokerage includes the idea of crossing organisational boundaries such as departments or organisations [14], or cultural boundaries such as disciplines [15] in order to exchange knowledge or mediate interactions. Brokers are considered key players in that their loss from a network would greatly affect its function and viability
+
+
+
+---
+class:middle
+
+## Network metric of interest for innovation:
+
+### Density (the not so usual suspect)
+
+.quote[number of edges divided by the number possible]
+
+* high levels increases information transmission capacity
+* low levels does not support absorption
+* multiple pathways enhance fidelity of information received
+* high density information and knowledge shared becomes homogeneous and redundant
+
+
+---
+class: center, middle
+
+## 2015 Canadian Aquaculture R&D network:
+
+.sixty[![image](images/betweenness_all.png)]
+
+???
+
+This is really the essence of any betweenness measure: the potential for withholding flow, otherwise known as gatekeeping (Borgatti and Everett, 2005)
+
+
 
 ---
 class: middle
@@ -195,12 +244,15 @@ class: middle
 ???
 In 2015, Fisheries and Oceans Canada was involved in 138 (64%) of the 215 projects of which 108 (78%) were collaborative
 
+
+
 ---
 class: center, middle
 
 ## Freshwater fish aquaculture R&D subnetwork:
 
-.fifty[![image](images/graph_finfish_freshwater.png)]
+.fifty[![image](images/betweenness_finfish_freshwater.png)]
+
 
 ???
 
@@ -217,11 +269,13 @@ class: center, middle
   - average degree: 4;
   - edge weight: 1 to 3
 
+
+
 ---
 class: center, middle
 
 ## CIMTAN aquaculture R&D subnetwork:
-.fifty[![image](images/graph_cimtan.png)]
+.seventy[![image](images/betweenness_cimtan.png)]
 
 ???
 
@@ -248,12 +302,14 @@ CIMTAN: Canadian Integrated Multi-Trophic Aquaculture Network
   - Network newsletter CIMTAN Snippets: 40 issues over 6 years sent to 842 suscribers 
   - 15 videos posted on YouTube: by December 31, 2016, the IMTA YouTube channel had reached 85,334 total views of its 15 videos
 
+
+
 ---
 class: center, middle
 
 ## Fish health aquaculture R&D subnetwork:
 
-.sixty[![image](images/graph_fish_health.png)]
+.sixty[![image](images/betweenness_fish_health.png)]
 
 ???
 - Total of 35 projects, 35 nodes, 59 edges

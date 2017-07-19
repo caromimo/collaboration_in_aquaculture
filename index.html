@@ -19,27 +19,11 @@ This month Caroline Mimeault will be sharing her dive into applying Social Netwo
 
 Hope to see you all there!
 
----
-class: middle
-
-## Structure of presentation:
-
-* Part I: Context
-* Part II: Scientific collaboration in Canadian aquaculture research and development
-* Part III: What does it all mean?
-* Part IV: Potential future analyses
-
-???
-Work in progress, do not pretend to have the answers
----
-class: center, middle
-
-# Part I: Context
 
 ---
 class: center, middle
 
-## Where I live:
+## Project at the intersections of:
 .fifty[![types](images/where_i_live.png)]
 
 ???
@@ -48,7 +32,7 @@ Fisheries and Oceans Canada (DFO) is the federal Department responsible to prote
 ---
 class: center, middle
 
-## Aquaculture is:
+## Aquaculture:
 
 .sixty[![types](images/aquaculture.jpg)]
 
@@ -109,11 +93,6 @@ A new division at work was created:
 Office of Partnership and Collaboration
 http://www.dfo-mpo.gc.ca/science/collaboration/office-bureau-eng.html
 
----
-class: center, middle
-
-# Part II:
-# Scientific collaboration in Canadian aquaculture R&D
 
 ---
 class: center, middle
@@ -132,12 +111,18 @@ aquaculture research community over the last decade
 
 * All editions of the R&D reviews are available [online](http://www.dfo-mpo.gc.ca/aquaculture/sci-res/rd-eng.htm)
 
+
 ---
-class: middle
+class: center, middle
 
-## Defining collaboration:
+## Capturing project details into a yaml file
 
-### Two or more organizations working on a given project, i.e. listed as project lead, project team or collaborators
+.left.fifty[![image](images/project_in_review.png)]
+.left.fifty[![image](images/example_yaml.png)]
+
+???
+
+Defining collaboration as two or more organizations working on a given project, i.e. listed as project lead, project team or collaborators
 
 ---
 class: middle
@@ -153,7 +138,6 @@ class: middle
   * csv files were imported in Gephi, a Social Network Analysis
 software, for visualisations and analyses
 
-We translated
 
 ---
 class: center, middle
@@ -184,39 +168,40 @@ collaborative projects between organisations
   - edge weight: 1 to 12
   - betweenness centrality range: 0 to above 14,000
 
+
 ---
 class: middle
 
-## Network metric of interest for innovation:
+## Network metrics of interest for innovation:
 
 ### Betweenness centrality (the usual suspect)
 
-.quote[the fraction of shortest paths that pass through the focal vertex]
+* The extent to which a node lies on paths between other nodes (adapted from Newman 2010)
+* High betweenness nodes are often called a broker
 
-* higher volume of more diverse information arriving at faster rates
-* centrality spurs the possibilities for novelty creation but at high(er) levels it may impede the possibilities for absorption of this novelty
+.quote[Brokerage provides benefits for the individual based on the idea that non-redundant actors are sources of unique information that can be used by the broker for personal advantage by increasing their social capital (Long et al. 2013)]
 
 ???
-Loosely described, the betweenness centrality of a node is the number of times that any actor needs a given actor
-to reach any other actor (Borgatti and Everett al. 2005).
-Brokerage provides benefits for the individual based on the idea that non-redundant actors are sources of unique information that can be used by the broker for personal advantage by increasing their social capital [5]. Social capital is defined as the advantage created by a person’s location in a structure of relationships [6, 12] and contrasts with the idea of human capital [5, 13] which explains a person’s advantage in terms of personal attributes. Brokers can facilitate access to novel information, or resources, facilitate transfer of knowledge, and co-ordinate effort across the network. Boundary spanning as a form of brokerage includes the idea of crossing organisational boundaries such as departments or organisations [14], or cultural boundaries such as disciplines [15] in order to exchange knowledge or mediate interactions. Brokers are considered key players in that their loss from a network would greatly affect its function and viability
+* Loosely described, the betweenness centrality of a node is the number of times that any actor needs a given actor to reach any other actor (Borgatti and Everett al. 2005).
+* Brokerage provides benefits for the individual based on the idea that non-redundant actors are sources of unique information that can be used by the broker for personal advantage by increasing their social capital [5]. Social capital is defined as the advantage created by a person’s location in a structure of relationships [6, 12] and contrasts with the idea of human capital [5, 13] which explains a person’s advantage in terms of personal attributes. Brokers can facilitate access to novel information, or resources, facilitate transfer of knowledge, and co-ordinate effort across the network. Boundary spanning as a form of brokerage includes the idea of crossing organisational boundaries such as departments or organisations [14], or cultural boundaries such as disciplines [15] in order to exchange knowledge or mediate interactions. Brokers are considered key players in that their loss from a network would greatly affect its function and viability
 
+---
+class: center, middle
+
+.quote[However, position alone does not tell the full story. Our empirical findings clearly indicate that exploration success also depends on the other two dimensions of embeddedness, namely technological distance and network density (Glising et al. 2008)]
 
 
 ---
 class:middle
 
-## Network metric of interest for innovation:
+## Network metrics of interest for innovation:
 
 ### Density (the not so usual suspect)
 
-.quote[number of edges divided by the number possible]
+* Measure of connectedness between members in a network (AlKuaik et al. 2016)
+* It is the number of edges divided by the number possible
 
-* high levels increases information transmission capacity
-* low levels does not support absorption
-* multiple pathways enhance fidelity of information received
-* high density information and knowledge shared becomes homogeneous and redundant
-
+.quote[... dense network generate trust, reciprocity norms, and a shared identity, which increase cooperation and knowledge sharing among organizations (AlKuaik et al. 2016)]
 
 ---
 class: center, middle
@@ -225,23 +210,22 @@ class: center, middle
 
 .sixty[![image](images/betweenness_all.png)]
 
-???
 
+
+???
 This is really the essence of any betweenness measure: the potential for withholding flow, otherwise known as gatekeeping (Borgatti and Everett, 2005)
 
 
 
 ---
-class: middle
+class: center, middle
 
 ## 2015 Aquaculture R&D Review:
-
-* 78% (168/215) of projects included in the 2015 Canadian Aquaculture R&D Review were collaborative (i.e., involved at least two organisations)
-* On-going aquaculture R&D span over several topics of research
 
 .center.sixty[![image](images/categories.png)]
 
 ???
+On-going aquaculture R&D span over several topics of research
 In 2015, Fisheries and Oceans Canada was involved in 138 (64%) of the 215 projects of which 108 (78%) were collaborative
 
 
@@ -263,7 +247,7 @@ class: center, middle
   - has two main players (Université Laval and University of Guelph);
   - main players represent aprroximately 5% of the total players
 
-- SNA metrix:
+- SNA metrics:
   - density: 0.12;
   - degree range: 1 to 19;
   - average degree: 4;
@@ -277,6 +261,8 @@ class: center, middle
 ## CIMTAN aquaculture R&D subnetwork:
 .seventy[![image](images/betweenness_cimtan.png)]
 
+
+
 ???
 
 CIMTAN: Canadian Integrated Multi-Trophic Aquaculture Network
@@ -289,7 +275,7 @@ CIMTAN: Canadian Integrated Multi-Trophic Aquaculture Network
   - main players represent approximately 22% of the total players;
   - network is dense
 
-- SNA metrix:
+- SNA metrics:
   - density: 0.44;
   - degree range: 1 to 16;
   - average degree: 7;
@@ -311,6 +297,7 @@ class: center, middle
 
 .sixty[![image](images/betweenness_fish_health.png)]
 
+
 ???
 - Total of 35 projects, 35 nodes, 59 edges
 
@@ -318,7 +305,7 @@ class: center, middle
   - small network with one main community and two small isolated communities;
   - one main and central player (DFO)
 
-- SNA metrix:
+- SNA metrics:
   - density: 0.10;
   - degree range: 1 to 29;
   - average degree: 3;
@@ -329,93 +316,33 @@ class: middle
 
 ## Conclusions
 
-* In 2015, 78% of aquaculture R&D projects in Canada were collaborative
-* The overall network of Canadian aquaculture R&D is sparse and dominated by a main player
-* The subnetworks are varies in: 
-  - density (0.10 to 0.44)
-  - structure (1, 2 or 4 main nodes in the network)
+* In 2015, 78% (168/215) of aquaculture R&D projects in Canada were collaborative
+* The overall network of Canadian aquaculture R&D is sparse (density of 0.03) and dominated by a main player (DFO) involved in 82% (138/168) of collaborations
+* The subnetworks are varies in density (0.10 to 0.44) and structure 
+* Based on literature, CIMTAN appears to be the network model to emulate
+
 
 ???
 * In 2015, DFO was an central node in the Canadian aquaculture R&D network being involved in 64% of collaborative aquaculture R&D projects
 * DFO’s position varies among networks of different research areas
 
 ---
-class: center, middle
-
-# Part III:
-# What does it all mean?
-
-???
-As excited I, we, were to do this project, it did not take long to realise that several other people have explored this approach.
-SNA have been applied to both the individual and the organisational levels. 
----
-class: center, middle
-
-### Can SNA provide guidance to foster scientific collaboration?
-
-???
-Is a specific metrix linked to increased performance?
-  - Position of a node in the network (centrality or betweenness)?
-  - Density of the (sub)networks?
-
-Difficult to quantify the outcomes of the projects included in the 2015 R&D review because:
-1. some of the projects are still on-going
-2. not all projects will lead to comparable outcomes
-
----
 class: middle
 
-## Literature review
+## Can SNA provide guidance to foster scientific collaboration?
 
+* Increase flow of knowledge and information by increasing density
+* Create new edges between organisations rather than reaching out for additional organisations 
+
+???
 Study  | Conclusion(s) | To increase output(s)...
 ------ | ------------- | -----------------------
 Schilling and Phelps 2007 | Combination of clustering and reach (density) was associated with higher firm patenting. Betweenness centrality was not | Increase density
 Gilsing et al. 2007 | The value of betweenness depends on the similarity to others and on the degree of network density | Context specific
 AlKuaik et al. 2016 | Significant positive relationship between organization’s network density and centrality with product and process innovation | Increase density and centrality
-
-???
-The above studies were conducted at the organisation-level.
-
-Studies at the individual-level include:
-
-Study  | Finding(s) 
------- | ---------- 
 Contandriopoulos et al. 2016 | Bridging position (betweenness) in a network improves scientific performance (productivity and influence) 
 Parise et al. 2015 | High "compactness ratio" (density) network negatively correlated with ideation
 
----
-class: middle
-
-# No Free Lunch
-
-## Density
-
-.quote[number of edges divided by the number possible]
-
-* high levels increases information transmission capacity
-* low levels does not support absorption
-* multiple pathways enhance fidelity of information received
-* high density information and knowledge shared becomes homogeneous and redundant
-
-## Betweenness
-
-.quote[The fraction of shortest paths that pass through the focal vertex.]
-
-* higher volume of more diverse information arriving at faster rates
-* centrality spurs the possibilities for novelty creation but at high(er) levels it may impede the possibilities for absorption of this novelty
-
----
-class: center, middle
-
-## Is more always better?
-
-.sixty[![image](images/more_always_better.png)]
-
----
-class: center, middle
-
-# Part IV:
-# Potential future analyses
 
 ---
 class: middle
@@ -423,9 +350,9 @@ class: middle
 ## Potential future analyses:
 
 * Determine how aquaculture R&D networks change over time
-* Determine if increased collaboration correlates with increased valuable outcomes such as publications, science advice, patents, etc.
-* Determine the optimal structure of scientific collaboration (cost vs. outcomes)
+* Correlate betweenness centrality and network density with aquaculture project outcomes
 * Analyse structures of funding networks
+
 
 ---
 class: center, middle
@@ -437,32 +364,6 @@ Github: @caromimo, Twitter: @megapteraphile
 
 ### Mike Williamson
 Github: @sleepycat, Twitter: @dexterchief
-
----
-class: center, middle
-
-## Extra slides</br>(if needed)
-
----
-class: center, middle
-
-## Example of a yaml file
-
-.seventy[![image](images/example_yaml.png)]
-
----
-class: center, middle
-
-## Example of a python script
-
-.fifty[![image](images/example_python.png)]
-
----
-class: center, middle
-
-## Example of a csv file
-
-.eighty[![image](images/example_csv.png)]
 
     </textarea>
     <script src="out/remark.min.js" type="text/javascript">

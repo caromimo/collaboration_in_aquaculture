@@ -57,6 +57,10 @@ body {
   background-color: rgb(64, 74, 83);
 }
 
+.left img {
+  float: left;
+}
+
 .float_left pre {
   float: left;
 }

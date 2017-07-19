@@ -132,6 +132,7 @@ code.javascript {
 }
 
 .quote {
+  font-size: 0.8em;
   padding:1em;
   font-style: italic;
   color: #222;

@@ -1,0 +1,617 @@
+SOURCE,TARGET,TYPE,WEIGHT
+Limberis Seafoods Ltd.,Taylor Shellfish Farms Canada,undirected,1
+MERINOV,Pec-Nord Inc.,undirected,1
+Cooke Aquaculture Inc.,Novartis,undirected,1
+Fisheries and Oceans Canada,Mills Seafood Ltd.,undirected,1
+Fisheries and Oceans Canada,Marine Harvest,undirected,1
+Island Scallops Ltd.,Island Sea Farms Inc.,undirected,1
+Culti-Mer Inc.,Moules de culture des Îles,undirected,1
+L’Étang Ruisseau Bar Ltd.,University of Prince Edward Island,undirected,1
+Fisheries and Oceans Canada,Newfoundland Aquaculture Industry Alliance,undirected,1
+Marine Harvest Canada,North Island College,undirected,4
+La Société de développement de l’industrie maricole,Ressources Aquatiques Québec ,undirected,1
+University of Guelph,Université Laval,undirected,2
+Fisheries and Oceans Canada,La Maison BeauSoleil Inc.,undirected,2
+Creative Salmon,Odyssey Shellfish,undirected,1
+Grieg Seafood,Simon Fraser University,undirected,1
+Commonwealth Scientific and Industrial Research Organisation (Australia),Technical University of Denmark,undirected,1
+Fisheries and Oceans Canada,Institut français de recherche pour l'exploitation de la mer,undirected,1
+Carver Marine Consulting,L’Étang Ruisseau Bar Ltd.,undirected,1
+Creative Salmon,Island Scallops Ltd.,undirected,1
+Fisheries and Oceans Canada,Oslo and Akershus University College of Applied Sciences,undirected,1
+Atlantic Canada Fish Atlantic Canada Fish,Sweeney International Marine Corp.,undirected,1
+Cooke Aquaculture Inc.,Vancouver Island University - Centre for Shellfish Research,undirected,1
+Atlantic Canada Fish Farmers Association,Fisheries and Oceans Canada,undirected,3
+Cleanwater Shellfish Ltd.,Island Scallops Ltd.,undirected,1
+New Brunswick Research Productivity Council,University of New Brunswick Saint John,undirected,1
+Fisheries and Oceans Canada,University of New Brunswick Fredericton,undirected,1
+Northern Ontario Aquaculture Association,Ontario Ministry of Agriculture and Food,undirected,1
+Paragon Fish Corporation,University of Guelph,undirected,1
+Odyssey Shellfish,SEA Vision Group,undirected,1
+Fisheries and Oceans Canada,Institute of Marine Research of Norway,undirected,1
+Mac’s Oysters Ltd.,Taylor Shellfish Canada ULC.,undirected,1
+Memorial University of Newfoundland,Sweeney International Marine Corp.,undirected,1
+Measuremax,Queen’s University,undirected,1
+Marine Harvest Canada,Taylor Shellfish Canada ULC.,undirected,1
+Eastern Charlotte Waterways,Plymouth Marine Laboratory,undirected,1
+Fisheries and Oceans Canada,MNHN,undirected,1
+Fisheries and Oceans Canada,Miawpukek First Nation,undirected,1
+Cooke Aquaculture Inc.,"New Brunswick Department of Agriculture, Aquaculture and Fisheries",undirected,1
+Creative Salmon,Little Wing Oysters Ltd.,undirected,1
+Nova Scotia Department of Fisheries and Aquaculture,Sweeney International Marine Corp.,undirected,1
+College of the North Atlantic,Municipality of Lord’s Cove,undirected,1
+Creative Salmon,Mainstream Canada,undirected,1
+Institut des sciences de la mer de Rimouski,MERINOV’s Centre des-Îles,undirected,1
+Northern Harvest Sea Farms,University of Alabama,undirected,1
+University of Guelph,"University of Natural Resources and Life Sciences, Vienna",undirected,1
+University of Maryland,University of New Hampshire,undirected,1
+"Department of Natural Resources, NB",University of Moncton,undirected,1
+Coldwater Fisheries,Northern Ontario Aquaculture Association,undirected,1
+Island Scallops Ltd.,Little Wing Oysters Ltd.,undirected,1
+"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation Québec",Université du Québec à Rimouski,undirected,1
+Creative Salmon,University of Victoria,undirected,1
+Cleanwater Shellfish Ltd.,Creative Salmon,undirected,1
+Huntsman Marine Science Centre,"New Brunswick Department of Agriculture, Aquaculture and Fisheries",undirected,2
+La Société de développement de l’industrie maricole,Université du Québec à Rimouski,undirected,1
+Coastal Zones Research Institute,Research and Productivity Council New Brunswick,undirected,1
+University of Waterloo,Yellow Island Aquaculture Ltd.,undirected,1
+MERINOV,Regroupement des pêcheurs propriétaires du sud de la Gaspésie,undirected,1
+Moules de culture des Îles Inc.,PEI Cultured Mussel Growers Association,undirected,1
+MERINOV,undefined,undirected,1
+Atlantic Salmon Federation,Fisheries and Oceans Canada,undirected,1
+Cooke Aquaculture Inc./Kelly Cove Salmon,University of Guelph,undirected,1
+Fan Seafoods Ltd.,Viking Bay Ventures,undirected,1
+Cryogenetics,Huntsman Marine Science Centre,undirected,1
+Creative Salmon,Marine Harvest Canada,undirected,5
+Fisheries and Oceans Canada,Microthalassia Consultants Inc.,undirected,1
+Institut des sciences de la mer de Rimouski,Université Laval,undirected,2
+Cermaq Canada,Grieg Seafood,undirected,5
+NB Department of Environment and Local Government,Sweeney International Marine Corp.,undirected,1
+Mainstream Canada,Nelson Island Sea Farms Ltd.,undirected,1
+Kyuquot SEAfoods Ltd.,University of New Brunswick Saint John,undirected,2
+Cooke Aquaculture Inc.,New Brunswick Research Productivity Council,undirected,1
+Huntsman Marine Science Centre,Plymouth Marine Laboratory,undirected,1
+Fisheries and Oceans Canada,Ontario Ministry of Natural Resources and Forestry,undirected,1
+Fisheries and Oceans Canada,Nova Scotia Community College,undirected,1
+University of Idaho,Université Laval,undirected,2
+"Centre for Applied Research, Technology, and Innovation",Odyssey Shellfish,undirected,1
+Plymouth Marine Laboratory,University of Alabama,undirected,1
+AquaBounty Technologies,Center for Aquaculture Technologies Canada,undirected,1
+New Brunswick Research and Productivity Council,University of New Brunswick Saint John,undirected,1
+Cleanwater Shellfish Ltd.,Grieg Seafood,undirected,1
+Creative Salmon,Mainstream Biological,undirected,1
+Coastal Zones Research Institute,Pisciculture Acadienne,undirected,1
+Atlantic Salmon Federation,Miawpukek First Nation,undirected,1
+Fleming College,Queen’s University,undirected,1
+"Key Laboratory of Mariculture, Ministry of Education, Ocean University of China, Qingdao, China",University of British Columbia,undirected,1
+Fisheries and Oceans Canada,University of Victoria,undirected,6
+University of Maryland,University of Prince Edward Island,undirected,1
+Fan Seafoods Ltd.,Pacific Sea Cucumbers Harvesters Association,undirected,1
+MERINOV,Moules de culture des Îles,undirected,1
+NOAA,Queen’s University,undirected,1
+Huntsman Marine Science Centre,University of New Brunswick,undirected,1
+Dalhousie University,University of New Brunswick Saint John,undirected,1
+Little Wing Oysters Ltd.,Taylor Shellfish Canada ULC.,undirected,1
+Culti-Mer Inc.,Grande-Entrée Aquaculture Inc.,undirected,2
+"Centre for Applied Research, Technology, and Innovation",SEA Vision Group,undirected,3
+Trojan UV,Wilfrid Laurier University,undirected,1
+Ontario Ministry of Natural Resources and Forestry,Paragon Fish Corporation,undirected,1
+Chippewa Ottawa Resource Authority,University of Guelph,undirected,1
+"Centre for Applied Research, Technology, and Innovation",Marine Harvest Canada,undirected,3
+Culti-Mer Inc.,Université du Québec à Rimouski,undirected,2
+Ecoethics,Lakehead University,undirected,1
+Fisheries and Oceans Canada,King Aquaculture,undirected,1
+University of Victoria,Vancouver Aquarium,undirected,1
+Fleming College,Trojan UV,undirected,1
+SEA Vision Group,University of New Brunswick Fredericton,undirected,1
+Northern Harvest Sea Farms,Plymouth Marine Laboratory,undirected,1
+Fisheries and Oceans Canada,La moule du large Inc.,undirected,5
+Cermaq Canada,undefined,undirected,1
+Universiteit Gent,Université Laval,undirected,2
+Marine Harvest Canada,Microthalassia Consultants Inc.,undirected,1
+Fisheries and Oceans Canada,University of Alabama,undirected,1
+Fisheries and Oceans Canada,Huntsman Marine Science Centre,undirected,2
+Fisheries and Oceans Canada,L’Écloserie Acadienne Ltd.,undirected,1
+Fisheries and Oceans Canada,Kelly Cove Salmon Ltd.,undirected,6
+Atlantic Veterinary College,Fisheries and Oceans Canada,undirected,5
+La moule du large Inc.,Université du Québec à Rimouski,undirected,1
+Atlantic Canada Fish Farmers Association,Sweeney International Marine Corp.,undirected,1
+Grieg Seafood,Island Scallops Ltd.,undirected,1
+Ghent University,University of Idaho,undirected,1
+Contech,Measuremax,undirected,1
+Fisheries and Oceans Canada,Marine Harvest Canada,undirected,10
+Fisheries and Oceans Canada,Ressources Aquatiques Québec ,undirected,1
+University of Prince Edward Island,University of Washington,undirected,1
+Fisheries and Oceans Canada,University of Moncton,undirected,2
+Dalhousie University,Genome Atlantic,undirected,1
+Culti-Mer Inc.,MERINOV,undirected,3
+Grieg Seafood,Kyuquot SEAfoods Ltd.,undirected,1
+Culti-Mer Inc.,undefined,undirected,1
+Fisheries and Oceans Canada,Sapphire Sea Farms,undirected,1
+Biomer,MERINOV,undirected,1
+Cleanwater Shellfish Ltd.,Fisheries and Oceans Canada,undirected,1
+Institut des sciences de la mer de Rimouski,Société de Développement de l’Industrie Maricole,undirected,1
+Center for Aquaculture Technologies Canada,University of Prince Edward Island,undirected,1
+Cold Ocean Salmon Inc.,"Fish, Food and Allied Workers",undirected,1
+Dalhousie University,Memorial University of Newfoundland,undirected,1
+Institut français de recherche pour l'exploitation de la mer,Université Pierre et Marie Curie,undirected,3
+Little Wing Oysters Ltd.,Mainstream Canada,undirected,1
+Island Scallops Ltd.,Microthalassia Consultants Inc.,undirected,1
+Innovation Fisheries Products Inc.,Mills Seafood Ltd.,undirected,1
+BC Commercial Fishing Caucus,Pacific Marine Analysis and Research Association,undirected,1
+Fisheries and Oceans Canada,University of New Brunswick,undirected,1
+Moules de culture des Îles,Regroupement des pêcheurs propriétaires du sud de la Gaspésie,undirected,1
+Fisheries and Oceans Canada,Parks Canada,undirected,1
+Cooke Aquaculture Inc.,University of New Brunswick Saint John,undirected,9
+Fisheries and Oceans Canada,"New Brunswick Department of Agriculture, Aquaculture and Fisheries",undirected,2
+Fisheries and Oceans Canada,Northern Ontario Aquaculture Association,undirected,2
+University of New Brunswick Saint John,Vancouver Island University - Centre for Shellfish Research,undirected,1
+Fisheries and Oceans Canada,Université de Laval,undirected,1
+Fisheries and Oceans Canada,Totem Marine Farms Inc.,undirected,1
+EWOS Innovation,Memorial University of Newfoundland,undirected,1
+La Société de développement de l’industrie maricole,"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation Québec",undirected,1
+"Aqualife North America, Inc.",University of British Columbia,undirected,1
+Atlantic Veterinary College,"PEI Fisheries, Aquaculture and Rural Development",undirected,1
+Contech,Trojan UV,undirected,1
+Marine Harvest Canada,Simon Fraser University,undirected,1
+Odyssey Shellfish Ltd.,Taylor Shellfish Farms Canada,undirected,1
+Entreprise Baie Acadienne Ltd.,University of Moncton,undirected,1
+Fisheries and Oceans Canada,Université Laval,undirected,1
+Grieg Seafood,University of New Brunswick Saint John,undirected,2
+Fisheries and Oceans Canada,Northern Harvest Sea Farms,undirected,4
+Cooke Aquaculture Inc.,Dalhousie University,undirected,1
+Grieg Seafood,Mainstream Canada,undirected,3
+Atlantic Canada Fish Atlantic Canada Fish,Fisheries and Oceans Canada,undirected,1
+Creative Salmon,Microthalassia Consultants Inc.,undirected,1
+Coastal Zones Research Institute,New Brunswick Community College,undirected,2
+Agriculture and Agri-Food Canada,Dalhousie University,undirected,1
+University of Western Ontario,Yellow Island Aquaculture Ltd.,undirected,1
+Fisheries and Oceans Canada,Nelson Island Sea Farms Ltd.,undirected,1
+SEA Vision Group,University of New Brunswick Saint John,undirected,1
+Fisheries and Oceans Canada,Sweeney International Marine Corp.,undirected,3
+North Island College,Odyssey Shellfish,undirected,1
+Chippewa Ottawa Resource Authority,Ontario Ministry of Natural Resources and Forestry,undirected,1
+Cooke Aquaculture Inc.,Grieg Seafood,undirected,1
+Fisheries and Oceans Canada,Vancouver Island University - Centre for Shellfish Research,undirected,1
+Nelson Island Sea Farms Ltd.,Taylor Shellfish Canada ULC.,undirected,1
+Atlantic Canada Fish Farmers Association,Huntsman Marine Science Centre,undirected,1
+"New Brunswick Department of Agriculture, Aquaculture and Fisheries",Parks Canada,undirected,1
+Fisheries and Oceans Canada,Genome Atlantic,undirected,1
+Creative Salmon,Mac’s Oysters Ltd.,undirected,1
+Grieg Seafood,Island Telemetrics,undirected,1
+Huntsman Marine Science Centre,Northern Harvest Sea Farms,undirected,5
+Grieg Seafood,Taylor Shellfish Canada ULC.,undirected,1
+National Institute of Marine Sciences and Technologies,Université Laval,undirected,1
+Grieg Seafood,SEA Vision Group,undirected,3
+Creative Salmon,North Island College,undirected,4
+Cermaq Canada,Creative Salmon,undirected,4
+Fisheries and Oceans Canada,"Key Laboratory of Mariculture, Ministry of Education, Ocean University of China, Qingdao, China",undirected,1
+SEA Vision Group,University of Victoria,undirected,2
+Fisheries and Oceans Canada,P.E.I. Mussel King (1994) Inc.,undirected,1
+"Centre for Applied Research, Technology, and Innovation",Creative Salmon,undirected,3
+Havforskningsinstituttet,University of Idaho,undirected,3
+Grieg Seafood,New Brunswick Research and Productivity Council,undirected,1
+University of British Columbia,University of New Brunswick Saint John,undirected,1
+University of New Brunswick Fredericton,University of Victoria,undirected,1
+Mac’s Oysters Ltd.,Mainstream Canada,undirected,1
+Cooke Aquaculture Inc.,Vancouver Aquarium,undirected,1
+Creative Salmon,Grieg Seafood,undirected,5
+Centre de transfert et de sélection des salmonidés,Pisciculture des Appalaches,undirected,1
+Gaspé Peninsula lead,MERINOV,undirected,1
+Ontario Ministry of Natural Resources and Forestry,University of Guelph,undirected,1
+Institut français de recherche pour l'exploitation de la mer,University of Guelph,undirected,2
+Grieg Seafood,Odyssey Shellfish,undirected,1
+Fisheries and Oceans Canada,University of Guelph,undirected,4
+Canadian Food Inspection Agency,Fisheries and Oceans Canada,undirected,1
+University of New Hampshire,University of Prince Edward Island,undirected,1
+Fisheries and Oceans Canada,MERINOV,undirected,1
+La moule du large Inc.,"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation Québec",undirected,1
+Fleming College,NOAA,undirected,1
+Queen’s University,Trojan UV,undirected,1
+Fisheries and Oceans Canada,Université du Québec à Chicoutimi,undirected,1
+Centre de transfert et de sélection des salmonidés,Pisciculture Lac St-François,undirected,1
+"Centre for Applied Research, Technology, and Innovation",Cermaq Canada,undirected,3
+University of Maryland,University of Washington,undirected,1
+Mainstream Canada,Microthalassia Consultants Inc.,undirected,1
+Centre de transfert et de sélection des salmonidés,Université Laval,undirected,1
+Contech,Queen’s University,undirected,1
+Fleming College,Measuremax,undirected,1
+Fisheries and Oceans Canada,Moules de culture des Îles Inc.,undirected,1
+Biomer,Culti-Mer Inc.,undirected,1
+New Brunswick Community College,Pisciculture Acadienne,undirected,1
+Fisheries and Oceans Canada,Newfoundland and Labrador,undirected,1
+BC Commercial Fishing Caucus,Vancouver Island University,undirected,1
+Lakehead University,Trojan UV,undirected,1
+Island Scallops Ltd.,Taylor Shellfish Canada ULC.,undirected,1
+"Department of Agriculture, Aquaculture and Fisheries",University of Moncton,undirected,1
+Marine Harvest Canada,University of Alberta,undirected,1
+Coldwater Fisheries,Ontario Ministry of Agriculture and Food,undirected,1
+Fisheries and Oceans Canada,Taylor Shellfish Farms Canada,undirected,1
+Fisheries and Oceans Canada,Klahoose First Nation,undirected,1
+Elsipogtog Fisheries,Fisheries and Oceans Canada,undirected,1
+Fleming College,Lakehead University,undirected,1
+Havforskningsinstituttet,Université Pierre et Marie Curie,undirected,3
+MERINOV,Moule de Culture des Îles Inc.,undirected,1
+Mainstream Biological,North Island College,undirected,1
+Fisheries and Oceans Canada,University of British Columbia,undirected,3
+Fisheries and Oceans Canada,"Mac’s Oysters Ltd., BC",undirected,1
+Fisheries and Oceans Canada,Huîtres Aquador Oysters Inc.,undirected,1
+"Department of Agriculture, Aquaculture and Fisheries",Fisheries and Oceans Canada,undirected,1
+North Island College,University of Victoria,undirected,1
+MERINOV,Université Laval,undirected,1
+Cooke Aquaculture Inc.,University of British Columbia,undirected,1
+"Key Laboratory of Mariculture, Ministry of Education, Ocean University of China, Qingdao, China",Klahoose Shellfish Limited Partnership,undirected,1
+Creative Salmon,Taylor Shellfish Canada ULC.,undirected,1
+Coastal Zones Research Institute,Dalhousie University,undirected,1
+Fort Folly First Nations,"New Brunswick Department of Agriculture, Aquaculture and Fisheries",undirected,1
+Ghent University,Havforskningsinstituttet,undirected,1
+Fisheries and Oceans Canada,Grieg Seafood,undirected,8
+Vancouver Aquarium,Vancouver Island University - Centre for Shellfish Research,undirected,1
+Cooke Aquaculture Inc.,Fort Folly First Nations,undirected,1
+Contech,Lakehead University,undirected,1
+Fisheries and Oceans Canada,Limberis Seafoods Ltd.,undirected,1
+Meeker’s Aquaculture,University of Guelph,undirected,1
+Technical University of Denmark,University of Adelaide,undirected,1
+Kyuquot SEAfoods Ltd.,Simon Fraser University,undirected,1
+Fisheries and Oceans Canada,La Société Aquaculture Association of Nova Scotia,undirected,1
+Contech,NOAA,undirected,1
+Fisheries and Oceans Canada,Little Wing Oysters Ltd.,undirected,1
+National Institute of Marine Sciences and Technologies,Nofima,undirected,1
+Agriculture and Agri-Food Canada,Memorial University of Newfoundland,undirected,1
+Margaree Fish Hatchery,Nova Scotia Department of Fisheries & Aquaculture,undirected,1
+University of Guelph,University of Idaho,undirected,3
+Fisheries and Oceans Canada,Island Scallops Ltd.,undirected,2
+Nofima,Station piscicole Trois-Lacs,undirected,1
+"Department of Agriculture, Aquaculture and Fisheries",Entreprise Baie Acadienne Ltd.,undirected,1
+Fisheries and Oceans Canada,Kenny Aquaculture,undirected,1
+Cleanwater Shellfish Ltd.,Mac’s Oysters Ltd.,undirected,1
+Cooke Aquaculture Inc.,Kelly Cove Salmon Ltd.,undirected,1
+Cooke Aquaculture Inc.,University of Victoria,undirected,3
+Cermaq Canada,Fisheries and Oceans Canada,undirected,2
+Genome Atlantic,University of Guelph,undirected,1
+Mainstream Canada,Marine Harvest,undirected,1
+Ecoethics,Wilfrid Laurier University,undirected,1
+Kyuquot SEAfoods Ltd.,University of Victoria,undirected,3
+Memorial University of Newfoundland,Oslo and Akershus University College of Applied Sciences,undirected,1
+"Centre for Applied Research, Technology, and Innovation",Island Telemetrics,undirected,1
+La moule du large Inc.,MERINOV,undirected,2
+Fisheries and Oceans Canada,Odyssey Shellfish Ltd.,undirected,1
+Station piscicole Trois-Lacs,Université du Québec à Rimouski,undirected,1
+Cooke Aquaculture Inc.,University of Guelph,undirected,2
+Fisheries and Oceans Canada,Nova Scotia Department of Fisheries & Aquaculture,undirected,1
+Cold Ocean Salmon Inc.,Newfoundland Aquaculture Industry Alliance,undirected,1
+Fisheries and Oceans Canada,Wild West Steelhead,undirected,1
+Chippewa Ottawa Resource Authority,Paragon Fish Corporation,undirected,1
+Cooke Aquaculture Inc.,Simon Fraser University,undirected,1
+Biomer,Grande-Entrée Aquaculture Inc.,undirected,1
+Université Laval,Université Pierre et Marie Curie,undirected,2
+Kyuquot SEAfoods Ltd.,Limberis Seafoods Ltd.,undirected,1
+Huntsman Marine Science Centre,"NB Department of Agriculture, Aquaculture and Fisheries",undirected,1
+Fisheries and Oceans Canada,Gray Aqua Group Ltd.,undirected,1
+MERINOV,Ressources Aquatiques Québec ,undirected,1
+Novartis,Research and Productivty Council of New Brunswick,undirected,1
+Atlantic Canada Fish Farmers Association,Fort Folly First Nations,undirected,1
+Fisheries and Oceans Canada,University of Prince Edward Island,undirected,2
+Entreprise Baie Acadienne Ltd.,Fisheries and Oceans Canada,undirected,1
+Kyuquot SEAfoods Ltd.,New Brunswick Research and Productivity Council,undirected,1
+Little Wing Oysters Ltd.,Marine Harvest Canada,undirected,1
+"Aqualife North America, Inc.",Dalhousie University,undirected,1
+Atlantic Salmon Federation,Newfoundland and Labrador,undirected,1
+Klahoose Shellfish Limited Partnership,University of British Columbia,undirected,1
+Island Scallops Ltd.,Mainstream Canada,undirected,1
+Grant Vandenberg,École des Pêches de l'Aquaculture,undirected,1
+Agrimarine Industries Inc.,Fisheries and Oceans Canada,undirected,2
+University of Guelph,Université Pierre et Marie Curie,undirected,2
+Fisheries and Oceans Canada,Université du Québec à Rimouski,undirected,2
+Atlantic Canada Fish Farmers Association,NB Department of Environment and Local Government,undirected,1
+New Brunswick Research and Productivity Council,Simon Fraser University,undirected,1
+Fisheries and Oceans Canada,Institut des sciences de la mer de Rimouski,undirected,7
+Dalhousie University,University of Bergen,undirected,1
+Cleanwater Shellfish Ltd.,Mainstream Canada,undirected,1
+Cooke Aquaculture Inc.,Research and Productivty Council of New Brunswick,undirected,1
+Cermaq Canada,Marine Harvest Canada,undirected,6
+Creative Salmon,Island Telemetrics,undirected,1
+Island Scallops Ltd.,Limberis Seafoods Ltd.,undirected,1
+Center for Aquaculture Technologies Canada,University of New Brunswick,undirected,1
+Huntsman Marine Science Centre,University of Alabama,undirected,1
+Coastal Zones Research Institute,"New Brunswick Department of Agriculture, Aquaculture and Fisheries",undirected,1
+Cooke Aquaculture Inc.,Marine Harvest Canada,undirected,1
+University of British Columbia,University of Victoria,undirected,1
+Kyuquot SEAfoods Ltd.,Vancouver Aquarium,undirected,1
+Island Scallops Ltd.,Kyuquot SEAfoods Ltd.,undirected,1
+Gray Aqua Group Ltd.,Université de Laval,undirected,1
+"Department of Natural Resources, NB",Fisheries and Oceans Canada,undirected,1
+Mac’s Oysters Ltd.,Nelson Island Sea Farms Ltd.,undirected,1
+Institut des sciences de la mer de Rimouski,Université du Québec à Chicoutimi,undirected,1
+Ressources Aquatiques Québec ,Université du Québec à Rimouski,undirected,1
+La Société de développement de l’industrie maricole,MERINOV,undirected,1
+Cermaq Canada,North Island College,undirected,4
+Kelly Cove Salmon Ltd.,University of Moncton,undirected,1
+NOAA,Wilfrid Laurier University,undirected,1
+Grande-Entrée Aquaculture Inc.,Université du Québec à Rimouski,undirected,1
+"Centre for Applied Research, Technology, and Innovation",University of Victoria,undirected,1
+Havforskningsinstituttet,University of Guelph,undirected,2
+Fan Seafoods Ltd.,University of British Columbia,undirected,1
+Fisheries and Oceans Canada,Kyuquot SEAfoods Ltd.,undirected,4
+"Department of Natural Resources, NB",Entreprise Baie Acadienne Ltd.,undirected,1
+Grieg Seafood,Mac’s Oysters Ltd.,undirected,1
+Cooke Aquaculture Inc.,Parks Canada,undirected,1
+Fisheries and Oceans Canada,Norlantic Processors Ltd.,undirected,2
+Fisheries and Oceans Canada,"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation Québec",undirected,1
+Mac’s Oysters Ltd.,Microthalassia Consultants Inc.,undirected,1
+Nofima,Université du Québec à Rimouski,undirected,1
+Fort Folly First Nations,Huntsman Marine Science Centre,undirected,1
+Eastern Charlotte Waterways,University of Alabama,undirected,1
+BC Pacific Oyster Ltd.,Dalhousie University,undirected,1
+University of Guelph,University of New Brunswick Saint John,undirected,1
+Marine Harvest Canada,Nelson Island Sea Farms Ltd.,undirected,1
+Island Scallops Ltd.,Marine Harvest Canada,undirected,1
+Fisheries and Oceans Canada,Mac’s Oysters Ltd.,undirected,2
+Canada Cryogenetics Services,Huntsman Marine Science Centre,undirected,1
+University of Victoria,Vancouver Island University - Centre for Shellfish Research,undirected,1
+Atlantic Veterinary College,"PEI Department of Fisheries, Aquaculture and Rural Development",undirected,2
+Eskasoni Fish and Wildlife Commission,Fisheries and Oceans Canada,undirected,1
+Cooke Aquaculture Inc.,Genome Atlantic,undirected,1
+Island Telemetrics,North Island College,undirected,1
+La Société de développement de l’industrie maricole,La moule du large Inc.,undirected,1
+Fisheries and Oceans Canada,Newfoundland Cod Broodstock Company,undirected,1
+Klahoose First Nation,Pacific Sea Cucumbers Harvesters Association,undirected,1
+Grande-Entrée Aquaculture Inc.,Moules de culture des Îles,undirected,1
+"Fish, Food and Allied Workers",Fisheries and Oceans Canada,undirected,1
+Lakehead University,Queen’s University,undirected,1
+Pisciculture des Appalaches,Université Laval,undirected,1
+University of British Columbia,Viking Bay Ventures,undirected,1
+Dalhousie University,Research and Productivity Council New Brunswick,undirected,1
+Fisheries and Oceans Canada,Memorial University of Newfoundland,undirected,3
+Institut des sciences de la mer de Rimouski,MNHN,undirected,1
+Martin Mills Inc.,University of Guelph,undirected,1
+Coastal Zones Research Institute,University of Guelph,undirected,1
+University of Guelph,undefined,undirected,2
+Cermaq Canada,University of Alberta,undirected,1
+Fisheries and Oceans Canada,New Brunswick Research Productivity Council,undirected,1
+Cooke Aquaculture Inc.,Huntsman Marine Science Centre,undirected,1
+Fisheries and Oceans Canada,Mainstream Canada,undirected,4
+Fisheries and Oceans Canada,La Société de développement de l’industrie maricole,undirected,1
+Simon Fraser University,University of New Brunswick Saint John,undirected,1
+Gulf Aquaculture Association,University of British Columbia,undirected,2
+Microthalassia Consultants Inc.,Taylor Shellfish Canada ULC.,undirected,1
+Industrial Action Plan of the Interprovincial Partnership for Sustainable Freshwater Aquaculture Development,Université Laval,undirected,1
+Contech,Fleming College,undirected,1
+Fisheries and Oceans Canada,Simon Fraser University,undirected,1
+University of Alberta,undefined,undirected,1
+Havforskningsinstituttet,Université de Laval,undirected,1
+Klahoose First Nation,University of British Columbia,undirected,1
+Gaspé Peninsula lead,La moule du large Inc.,undirected,1
+Corporation Larvatria,Quebec Agrifood Development Center,undirected,1
+Microthalassia Consultants Inc.,Nelson Island Sea Farms Ltd.,undirected,1
+Center for Aquaculture Technologies Canada,National Research Council,undirected,1
+Klahoose First Nation,Viking Bay Ventures,undirected,1
+Memorial University of Newfoundland,Newfoundland Cod Broodstock Company,undirected,1
+Island Telemetrics,Marine Harvest Canada,undirected,1
+Simon Fraser University,University of Victoria,undirected,1
+BC Pacific Oyster Ltd.,University of British Columbia,undirected,2
+Creative Salmon,Nelson Island Sea Farms Ltd.,undirected,1
+Fisheries and Oceans Canada,Paragon Fish Corporation,undirected,1
+University of Prince Edward Island,undefined,undirected,1
+Grande-Entrée Aquaculture Inc.,MERINOV,undirected,2
+College of the North Atlantic,undefined,undirected,1
+Eastern Charlotte Waterways,Northern Harvest Sea Farms,undirected,1
+Ecoethics,Trojan UV,undirected,1
+Pisciculture Mont-Tremblant,Université Laval,undirected,1
+Fisheries and Oceans Canada,New Brunswick Research and Productivity Council,undirected,1
+Fisheries and Oceans Canada,Island Sea Farms Inc.,undirected,1
+New Brunswick Community College,University of Guelph,undirected,1
+Fisheries and Oceans Canada,NB Department of Environment and Local Government,undirected,1
+Fisheries and Oceans Canada,Plymouth Marine Laboratory,undirected,1
+University of New Brunswick Fredericton,University of New Brunswick Saint John,undirected,1
+Novartis,University of Prince Edward Island,undirected,1
+Institut français de recherche pour l'exploitation de la mer,University of Idaho,undirected,3
+"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation Québec",Ressources Aquatiques Québec ,undirected,1
+Fisheries and Oceans Canada,"PEI Fisheries, Aquaculture and Rural Development",undirected,1
+Havforskningsinstituttet,Universiteit Gent,undirected,2
+Grieg Seafood,Microthalassia Consultants Inc.,undirected,1
+Grieg Seafood,Little Wing Oysters Ltd.,undirected,1
+Fisheries and Oceans Canada,Fort Folly First Nations,undirected,1
+Marine Harvest Canada,Odyssey Shellfish,undirected,1
+National Institute of Marine Sciences and Technologies,Université du Québec à Rimouski,undirected,1
+Newfoundland Cod Broodstock Company,Sapphire Sea Farms,undirected,1
+Cleanwater Shellfish Ltd.,Taylor Shellfish Canada ULC.,undirected,1
+Grieg Seafood,North Island College,undirected,4
+Fisheries and Oceans Canada,PEI Cultured Mussel Growers Association,undirected,1
+Canada Cryogenetics Services,Cryogenetics,undirected,1
+Fisheries and Oceans Canada,Vancouver Aquarium,undirected,2
+Fisheries and Oceans Canada,Viking Bay Ventures,undirected,1
+Northern Harvest Sea Farms,University of New Brunswick,undirected,1
+University of Waterloo,University of Windsor,undirected,1
+Island Telemetrics,SEA Vision Group,undirected,1
+Gaspé Peninsula lead,Moule de Culture des Îles Inc.,undirected,1
+University of Idaho,Université Pierre et Marie Curie,undirected,3
+Culti-Mer Inc.,Pec-Nord Inc.,undirected,1
+Ecoethics,Fleming College,undirected,1
+Huntsman Marine Science Centre,Parks Canada,undirected,1
+Measuremax,Wilfrid Laurier University,undirected,1
+Institut français de recherche pour l'exploitation de la mer,University of Bergen,undirected,1
+Kyuquot SEAfoods Ltd.,Taylor Shellfish Farms Canada,undirected,1
+Fisheries and Oceans Canada,University of Bergen,undirected,1
+Coastal Zones Research Institute,University of Idaho,undirected,1
+Commonwealth Scientific and Industrial Research Organisation (Australia),University of Adelaide,undirected,1
+CÉGEP de la Gaspésie et des Îles,undefined,undirected,1
+Pisciculture Lac St-François,Université Laval,undirected,1
+MERINOV,Université du Québec à Rimouski,undirected,3
+National Institute of Marine Sciences and Technologies,Station piscicole Trois-Lacs,undirected,1
+Island Scallops Ltd.,Taylor Shellfish Farms Canada,undirected,1
+Chippewa Ottawa Resource Authority,Fisheries and Oceans Canada,undirected,1
+Carver Marine Consulting,Fisheries and Oceans Canada,undirected,1
+Queen’s University,Wilfrid Laurier University,undirected,1
+Kelly Cove Salmon Ltd.,Université Laval,undirected,1
+Fisheries and Oceans Canada,University of Alberta,undirected,1
+Universiteit Gent,University of Guelph,undirected,2
+Ghent University,Université Pierre et Marie Curie,undirected,1
+Institut des sciences de la mer de Rimouski,Station piscicole Trois-Lacs,undirected,1
+La moule du large Inc.,Ressources Aquatiques Québec ,undirected,1
+Lakehead University,Wilfrid Laurier University,undirected,1
+Havforskningsinstituttet,Institut français de recherche pour l'exploitation de la mer,undirected,3
+Eastern Charlotte Waterways,Fisheries and Oceans Canada,undirected,1
+Miramichi Salmon Association,Nova Scotia Department of Fisheries & Aquaculture,undirected,1
+Island Sea Farms Inc.,Taylor Shellfish Farms Canada,undirected,1
+Cold Ocean Salmon Inc.,Fisheries and Oceans Canada,undirected,8
+Commonwealth Scientific and Industrial Research Organisation (Australia),Fisheries and Oceans Canada,undirected,1
+Université Laval,Université du Québec à Rimouski,undirected,1
+Fisheries and Oceans Canada,"PEI Department of Fisheries, Aquaculture and Rural Development",undirected,2
+Grant Vandenberg,Université Laval,undirected,1
+"Centre for Applied Research, Technology, and Innovation",North Island College,undirected,3
+Mainstream Biological,Marine Harvest Canada,undirected,1
+Northern Harvest Sea Farms,University of Guelph,undirected,3
+Dalhousie University,Institut français de recherche pour l'exploitation de la mer,undirected,1
+Agriculture and Agri-Food Canada,Genome Atlantic,undirected,1
+L’Étang Ruisseau Bar Ltd.,SK Environmental & Communications Group,undirected,1
+MERINOV,"Ministère de l’Agriculture, des Pêcheries et de l’Alimentation Québec",undirected,1
+Université Pierre et Marie Curie,Université de Laval,undirected,1
+New Brunswick Community College,"New Brunswick Department of Agriculture, Aquaculture and Fisheries",undirected,1
+University of Windsor,Yellow Island Aquaculture Ltd.,undirected,1
+Pacific Marine Analysis and Research Association,Vancouver Island University,undirected,1
+Ghent University,Institut français de recherche pour l'exploitation de la mer,undirected,1
+University of British Columbia,Vancouver Island University - Centre for Shellfish Research,undirected,1
+Lakehead University,NOAA,undirected,1
+AquaBounty Canada,Huntsman Marine Science Centre,undirected,1
+Limberis Seafoods Ltd.,Odyssey Shellfish Ltd.,undirected,1
+Fisheries and Oceans Canada,Société de Développement de l’Industrie Maricole,undirected,1
+University of New Hampshire,University of Washington,undirected,1
+Fisheries and Oceans Canada,Meeker’s Aquaculture,undirected,1
+Kyuquot SEAfoods Ltd.,Odyssey Shellfish Ltd.,undirected,1
+Mac’s Oysters Ltd.,Marine Harvest Canada,undirected,1
+Island Sea Farms Inc.,Kyuquot SEAfoods Ltd.,undirected,1
+Cleanwater Shellfish Ltd.,Microthalassia Consultants Inc.,undirected,1
+Grande-Entrée Aquaculture Inc.,undefined,undirected,1
+Fisheries and Oceans Canada,University of Adelaide,undirected,1
+Culti-Mer Inc.,Regroupement des pêcheurs propriétaires du sud de la Gaspésie,undirected,1
+Fan Seafoods Ltd.,Fisheries and Oceans Canada,undirected,1
+Fisheries and Oceans Canada,Pharmaq,undirected,1
+Eastern Charlotte Waterways,Huntsman Marine Science Centre,undirected,1
+University of Western Ontario,University of Windsor,undirected,1
+Cermaq Canada,Odyssey Shellfish,undirected,1
+Huntsman Marine Science Centre,University of Guelph,undirected,3
+Cleanwater Shellfish Ltd.,Nelson Island Sea Farms Ltd.,undirected,1
+University of New Brunswick Saint John,Vancouver Aquarium,undirected,1
+Nofima,Université Laval,undirected,1
+La moule du large Inc.,Université du Québec à Chicoutimi,undirected,1
+Fort Folly First Nations,Parks Canada,undirected,1
+Pacific Sea Cucumbers Harvesters Association,University of British Columbia,undirected,1
+Cermaq Canada,University of Victoria,undirected,1
+Dalhousie University,University of British Columbia,undirected,5
+AquaBounty Technologies,National Research Council,undirected,1
+Universiteit Gent,University of Idaho,undirected,2
+Pacific Sea Cucumbers Harvesters Association,Viking Bay Ventures,undirected,1
+Cooke Aquaculture Inc.,University of New Brunswick,undirected,1
+Fisheries and Oceans Canada,Pacific Sea Cucumbers Harvesters Association,undirected,1
+University of Victoria,Vancouver Island University,undirected,2
+Mainstream Canada,Marine Harvest Canada,undirected,3
+Grieg Seafood,Mainstream Biological,undirected,1
+Cermaq Canada,Island Telemetrics,undirected,1
+Dalhousie University,Gulf Aquaculture Association,undirected,2
+Island Sea Farms Inc.,Limberis Seafoods Ltd.,undirected,1
+Fisheries and Oceans Canada,L’Étang Ruisseau Bar Ltd.,undirected,4
+Fisheries and Oceans Canada,Miramichi Salmon Association,undirected,1
+Cermaq Canada,SEA Vision Group,undirected,3
+Dalhousie University,Fisheries and Oceans Canada,undirected,4
+Institut français de recherche pour l'exploitation de la mer,Université Laval,undirected,2
+Fisheries and Oceans Canada,Klahoose Shellfish Limited Partnership,undirected,1
+La moule du large Inc.,Moule de Culture des Îles Inc.,undirected,1
+Université Laval,École des Pêches de l'Aquaculture,undirected,1
+Island Scallops Ltd.,Nelson Island Sea Farms Ltd.,undirected,1
+Fisheries and Oceans Canada,Nova Scotia Department of Fisheries and Aquaculture,undirected,1
+Island Sea Farms Inc.,Odyssey Shellfish Ltd.,undirected,1
+Mainstream Canada,Taylor Shellfish Canada ULC.,undirected,1
+New Brunswick Community College,University of Idaho,undirected,1
+Grieg Seafood,Marine Harvest Canada,undirected,8
+Cold Ocean Salmon Inc.,Northern Harvest Sea Farms,undirected,3
+Creative Salmon,Fisheries and Oceans Canada,undirected,1
+Pisciculture Mont-Tremblant,Pisciculture des Appalaches,undirected,1
+Grieg Seafood,University of Victoria,undirected,3
+Fisheries and Oceans Canada,undefined,undirected,2
+Contech,Ecoethics,undirected,1
+Contech,Wilfrid Laurier University,undirected,1
+Corporation Larvatria,Université Laval,undirected,1
+Island Scallops Ltd.,Mac’s Oysters Ltd.,undirected,1
+Fan Seafoods Ltd.,Klahoose First Nation,undirected,1
+Coldwater Fisheries,Fisheries and Oceans Canada,undirected,1
+Moules de culture des Îles,undefined,undirected,1
+Island Scallops Ltd.,Odyssey Shellfish Ltd.,undirected,1
+Margaree Fish Hatchery,Miramichi Salmon Association,undirected,1
+Kyuquot SEAfoods Ltd.,Marine Harvest Canada,undirected,1
+Institut français de recherche pour l'exploitation de la mer,Université de Laval,undirected,1
+Pisciculture Lac St-François,Pisciculture des Appalaches,undirected,1
+Cleanwater Shellfish Ltd.,Marine Harvest Canada,undirected,1
+Ghent University,Université de Laval,undirected,1
+"Centre for Applied Research, Technology, and Innovation",Grieg Seafood,undirected,3
+NOAA,Trojan UV,undirected,1
+Center for Aquaculture Technologies Canada,Huntsman Marine Science Centre,undirected,1
+Fisheries and Oceans Canada,Research and Productivty Council of New Brunswick,undirected,1
+Fisheries and Oceans Canada,SK Environmental & Communications Group,undirected,1
+MERINOV,Station piscicole Trois-Lacs,undirected,1
+Universiteit Gent,Université Pierre et Marie Curie,undirected,2
+Municipality of Lord’s Cove,undefined,undirected,1
+Memorial University of Newfoundland,Sapphire Sea Farms,undirected,1
+Biomer,Université du Québec à Rimouski,undirected,1
+University of British Columbia,Vancouver Aquarium,undirected,1
+Cooke Aquaculture Inc.,New Brunswick Research and Productivity Council,undirected,1
+Measuremax,NOAA,undirected,1
+Pisciculture Lac St-François,Pisciculture Mont-Tremblant,undirected,1
+NB Department of Environment and Local Government,Nova Scotia Department of Fisheries and Aquaculture,undirected,1
+Grande-Entrée Aquaculture Inc.,Regroupement des pêcheurs propriétaires du sud de la Gaspésie,undirected,1
+University of Waterloo,University of Western Ontario,undirected,1
+Cleanwater Shellfish Ltd.,Little Wing Oysters Ltd.,undirected,1
+Université Laval,Université de Montréal,undirected,1
+Fleming College,Wilfrid Laurier University,undirected,1
+University of Idaho,Université de Laval,undirected,1
+Canadian Food Inspection Agency,"Mac’s Oysters Ltd., BC",undirected,1
+Ecoethics,NOAA,undirected,1
+University of New Brunswick Saint John,University of Victoria,undirected,5
+Atlantic Canada Fish Farmers Association,"New Brunswick Department of Agriculture, Aquaculture and Fisheries",undirected,1
+Cooke Aquaculture Inc.,Kyuquot SEAfoods Ltd.,undirected,2
+Fisheries and Oceans Canada,University of New Brunswick Saint John,undirected,10
+Fisheries and Oceans Canada,Novartis,undirected,1
+Atlantic Canada Fish Farmers Association,Parks Canada,undirected,1
+Institut français de recherche pour l'exploitation de la mer,Universiteit Gent,undirected,2
+Institut des sciences de la mer de Rimouski,MERINOV,undirected,2
+"Department of Agriculture, Aquaculture and Fisheries","Department of Natural Resources, NB",undirected,1
+Grieg Seafood,Nelson Island Sea Farms Ltd.,undirected,1
+Fisheries and Oceans Canada,Ontario Ministry of Agriculture and Food,undirected,1
+Marine Harvest Canada,New Brunswick Research and Productivity Council,undirected,1
+Cooke Aquaculture Inc.,Fisheries and Oceans Canada,undirected,12
+Little Wing Oysters Ltd.,Nelson Island Sea Farms Ltd.,undirected,1
+Fisheries and Oceans Canada,Technical University of Denmark,undirected,1
+Fisheries and Oceans Canada,SEA Vision Group,undirected,1
+Genome Atlantic,Memorial University of Newfoundland,undirected,1
+Marine Harvest Canada,University of New Brunswick Saint John,undirected,1
+Marine Harvest Canada,undefined,undirected,1
+Centre de transfert et de sélection des salmonidés,Pisciculture Mont-Tremblant,undirected,1
+Lakehead University,Measuremax,undirected,1
+Cermaq Canada,Mainstream Biological,undirected,1
+Fisheries and Oceans Canada,Taylor Shellfish Canada ULC.,undirected,1
+AquaBounty Canada,Center for Aquaculture Technologies Canada,undirected,1
+Quebec Agrifood Development Center,Université Laval,undirected,1
+Station piscicole Trois-Lacs,Université Laval,undirected,2
+Little Wing Oysters Ltd.,Mac’s Oysters Ltd.,undirected,1
+Miawpukek First Nation,Newfoundland and Labrador,undirected,1
+Atlantic Canada Fish Farmers Association,Nova Scotia Department of Fisheries and Aquaculture,undirected,1
+North Island College,SEA Vision Group,undirected,3
+Measuremax,Trojan UV,undirected,1
+Regroupement des pêcheurs propriétaires du sud de la Gaspésie,undefined,undirected,1
+Creative Salmon,SEA Vision Group,undirected,3
+Atlantic Canada Fish Farmers Association,Cooke Aquaculture Inc.,undirected,1
+MERINOV,MERINOV’s Centre des-Îles,undirected,1
+Ecoethics,Queen’s University,undirected,1
+Marine Harvest Canada,SEA Vision Group,undirected,3
+Institut des sciences de la mer de Rimouski,La moule du large Inc.,undirected,4
+Marine Harvest Canada,University of Victoria,undirected,2
+Ecoethics,Measuremax,undirected,1
+"New Brunswick Department of Agriculture, Aquaculture and Fisheries",Pisciculture Acadienne,undirected,1
+Havforskningsinstituttet,Université Laval,undirected,2
+Fisheries and Oceans Canada,Margaree Fish Hatchery,undirected,1
+New Brunswick Research and Productivity Council,University of Victoria,undirected,1
+Little Wing Oysters Ltd.,Microthalassia Consultants Inc.,undirected,1
+Pec-Nord Inc.,Université du Québec à Rimouski,undirected,1
+Grieg Seafood,Marine Harvest,undirected,1
+Fisheries and Oceans Canada,Innovation Fisheries Products Inc.,undirected,1
+Fisheries and Oceans Canada,University of Manitoba,undirected,1
